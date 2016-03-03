@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyAppTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="camera_pic_setting">定时拍照设置</string>
+    <string name="camera_video_setting">定时录像设置</string>
+    <string name="camera_pic_save">照片已保存在sdcard/Zeeh/pic</string>
+    <string name="camera_video_save">视频已保存在sdcard/Zeeh/video</string>
+    <string name="service_stopped">关闭拍照服务\n照片已保存在sdcard/Zeeh/pic</string>
+    <string name="service_started">开启拍照服务</string>
+    <string name="service_video_stopped">关闭录像服务\n视频已保存在sdcard/Zeeh/video</string>
+    <string name="service_video_started">开启录像服务</string>
+    <string name="camera_front">前置摄像头</string>
+    <string name="camera_behide">后置摄像头</string>
+    <string name="camera_pic_time">拍照间隔(分钟)(默认为1)</string>
+    <string name="camera_pic_num">拍照持续时间(分钟)(默认为1)</string>
+    <string name="camera_video_time">录像持续时间(分钟)(默认为1)</string>
+        <string name="stop_pic_Bttton">拍照服务运行中,点击关闭</string>
+    <string name="stop_video_Bttton">录像服务运行中,点击关闭</string>
+    <string name="video_on_now">录像服务运行中</string>
+    <string name="video_stop_now">录像服务已关闭</string>
+    <string name="open_file">打开多媒体存放文件夹</string>
+</resources>
